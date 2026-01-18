@@ -221,7 +221,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Licencia
-
-Este proyecto no tiene licencia (UNLICENSED).
